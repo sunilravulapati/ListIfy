@@ -71,7 +71,7 @@ PORT=5000
     npm start
     ```
 
-    Visit `http://localhost:3000` to view the app.
+    Visit `http://localhost:5000` to view the app.
 
 ---
 ## 📂 Project Structure
